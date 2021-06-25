@@ -1,19 +1,50 @@
 {
   "outfit": [
     {
+        "id": 1,
         "description": "Embroidered Chain and Fan Shift Dress", 
         "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem01_2e94e3f2-ecb9-45e1-9840-85d67ff1700d.jpg", 
-        "name": "Embroidered Chain and Fan Shift Dress"        
+        "name": "Embroidered Chain and Fan Shift Dress",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "White"
+          }
+        ]
     },
     {
+        "id": 2,
         "description": "Dot Print Ruffle Mini Dress", 
         "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem02_90d8d8c8-4817-4ce2-8287-eecea1040e0a.png", 
-        "name": "Dot Print Ruffle Mini Dress"
+        "name": "Dot Print Ruffle Mini Dress",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color",
+            "value": "Yellow/Blue"
+          }
+        ]
     },
     {
+        "id": 3,
         "description": "Stretch-Cotton Twill High-Waisted Pant", 
         "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem04_6794b758-536a-48d3-a6c3-2b386bc85e0d.jpg", 
-        "name": "Stretch-Cotton Twill High-Waisted Pant"
+        "name": "Stretch-Cotton Twill High-Waisted Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Yellow/Black"
+          }
+        ]
     }
   ]
+
 }
