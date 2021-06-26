@@ -44,6 +44,111 @@
             "value": "Yellow/Black"
           }
         ]
+    },
+    {
+        "id": 4,
+        "description": "Skinny Pant", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem05_a374c9c8-86cd-4784-bca9-a2656df66bae.jpg", 
+        "name": "Skinny Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Blue"
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "description": "Stretch-Cotton Twill Wide Leg Pant", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem06_53db9ce5-f02b-4e37-8a8c-fe7dd19d9544.jpg", 
+        "name": "Stretch-Cotton Twill Wide Leg Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Yellow/Black"
+          }
+        ]
+    },
+    {
+        "id": 6,
+        "description": "Leaf Jacquard Pencil Skirt", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem10_90c2069d-5d18-4274-a3f5-174174d3158e.jpg", 
+        "name": "Leaf Jacquard Pencil Skirt",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Purple"
+          }
+        ]
+    },
+    {
+        "id": 7,
+        "description": "Straight Leg Waistband Pant", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem12_aaaa6834-4981-4c3f-bfa0-d83c48b0c91f.jpg", 
+        "name": "Straight Leg Waistband Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Blue"
+          }
+        ]
+    },
+    {
+        "id": 8,
+        "description": "Denim Wide Leg Pant", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem13_b6f5a1d9-a6a7-4d49-a78d-55aa8bcd2873.jpg", 
+        "name": "Denim Wide Leg Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Red"
+          }
+        ]
+    },
+    {
+        "id": 9,
+        "description": "Straight Leg Pant", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem14_9f2fc2d5-a2f8-46cc-9418-6f7cd75a4464.jpg", 
+        "name": "Straight Leg Pant",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Black"
+          }
+        ]
+    },
+    {
+        "id": 10,
+        "description": "Stretch Wool Mini Dress", 
+        "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem26_5fe060e8-45f8-46f7-a605-6e6d6ebd4dd1.jpg", 
+        "name": "Stretch Wool Mini Dress",
+        "attributes": [ {
+            "trait_type": "Brand", 
+            "value": "Malan Breton"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "Black"
+          }
+        ]
     }
   ]
 
