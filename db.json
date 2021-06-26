@@ -65,6 +65,8 @@
         "description": "Stretch-Cotton Twill Wide Leg Pant", 
         "image": "https://product-option-by-hulkapps.s3.amazonaws.com/uploads/swatch/MalanSS2021Fem06_53db9ce5-f02b-4e37-8a8c-fe7dd19d9544.jpg", 
         "name": "Stretch-Cotton Twill Wide Leg Pant",
+        "animation_url": "https://pixabay.com/videos/download/video-13232_large.mp4",
+        "youtube_url": "https://www.youtube.com/watch?v=bscxAdgqnUc",
         "attributes": [ {
             "trait_type": "Brand", 
             "value": "Malan Breton"
